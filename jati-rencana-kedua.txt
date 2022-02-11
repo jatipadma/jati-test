@@ -3,4 +3,5 @@ Rencana kedua
   - Test ini buat detail
   - Biar lebih banyak
 - Coba buat branch
+- Menambah isi rencana kedua
 - yey yey 
