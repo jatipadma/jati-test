@@ -6,4 +6,5 @@ Rencana kedua
 - Coba buat branch
 - Menambah isi rencana kedua
 - yey yey 
-- Tambah lagi yey
+- Tambah baru
+- Tambah lagi
